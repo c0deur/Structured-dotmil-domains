@@ -10,6 +10,7 @@
 944fw.afrc.af.mil
 www.usmc.mil
 ocsp.usmc.mil
+smartvoucher.dfas.mil
 www.okinawa.usmc.mil
 www.kanji.okinawa.usmc.mil
 quantico.usmc.mil
@@ -51,6 +52,7 @@ af.mil
 af.pentagon.mil
 afcommission.whs.mil
 afehri.maxwell.af.mil
+nrlgodae1.nrlmry.navy.mil
 afhsc.mil
 afirm.mil
 afod.hqusareur.army.mil
