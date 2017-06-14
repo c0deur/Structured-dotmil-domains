@@ -3,7 +3,7 @@ This repository was built only for research purposes in accordance with https://
 If you interested in contributing or research - make sure you read it.
 
 # Relevance
-All listed domains was alive at the moment of publication (bad records was filtered - domains with DNS errors, ConnectFailure, etc.). We will check and update the lists in the future.
+All listed domains was alive at the moment of publication (bad records was filtered - domains with DNS errors, ConnectFailure, etc. - but sure, we could miss something). We will check and update the lists in the future.
 The domains with 403, 404, 401, 500 codes, TrustFailure or other SSL problems was listed too.
 
 # Testing
