@@ -1,4 +1,4 @@
-1militaryonesource.mil
+militaryonesource.mil
 afcommission.whs.mil
 afhsc.mil
 afirm.mil
