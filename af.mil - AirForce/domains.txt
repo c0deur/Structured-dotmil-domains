@@ -8,6 +8,13 @@ acsc.maxwell.af.mil
 af.mil
 afehri.maxwell.af.mil
 www.osan.af.mil
+www.bandofthepacific-asia.af.mil
+www.drillteam.af.mil
+www.chaplaincorps.af.mil
+www.168arw.ang.af.mil
+www.idaho.ang.af.mil
+www.usafband.af.mil
+www.pope.afrc.af.mil
 www.osi.af.mil
 www.pacaf.af.mil
 www.5af.pacaf.af.mil
@@ -45,7 +52,6 @@ www.travis.af.mil
 www.tyndall.af.mil
 www.usafa.af.mil
 www.usafacademyband.af.mil
-www.usafband.af.mil
 www.usafe.af.mil
 www.501csw.usafe.af.mil
 www.usafeuropeband.af.mil
