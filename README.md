@@ -19,8 +19,8 @@ As you see, we still can miss some domains, which have some services running on 
 
 
 # Credits
-https://twitter.com/h1_sp1d3r
+https://twitter.com/h1_sp1d3r (Evgeniy Yakovchuk)
 
-https://twitter.com/_Psycho_Mantis (this repository was previously based on the fork of the researcher's project - https://github.com/Alyssa-o-Herrera/Mil-Domains)
+https://twitter.com/_Psycho_Mantis (Alyssa Herrera) - this repository was previously based on the fork of the researcher's project - https://github.com/Alyssa-o-Herrera/Mil-Domains
 
 #### Make The DoD Security Great Again!
