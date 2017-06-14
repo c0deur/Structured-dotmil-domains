@@ -7,7 +7,7 @@ All listed dotmil domains was alive at the moment of publication (bad records wa
 The domains with 403, 404, 401, 500 codes, TrustFailure or other SSL problems was listed too.
 
 # Testing
-Some subdomains is not accessible on port 80, so `https://` prefix is required upon testing. Avoid the using of automated tools - DoD firewalls can block your IP address and even IP pool, and you will loose access to the some part of domains. If you still want to use it - make sure that you set the delay between requests (2-3 sec. minimum).
+Some subdomains is not accessible on port 80, so `https://` prefix is required upon testing. Also some domains requires `www.` prefix. Avoid the using of automated tools - DoD firewalls can block your IP address and even IP pool, and you will loose access to the some part of domains. If you still want to use it - make sure that you set the delay between requests (2-3 sec. minimum).
 
 # Methodology used for collecting
 1) Enumerating all possible subdomains through various tools (DNScan, SubBrute, Sublist3r, passive collection from search engines, etc)
