@@ -6,14 +6,7 @@
 access.afpc.af.mil
 acsc.maxwell.af.mil
 af.mil
-af.mil
 afehri.maxwell.af.mil
-afri.au.af.mil
-arpc.afrc.af.mil
-asbc.maxwell.af.mil
-aulibrary.au.af.mil
-aulibrary.maxwell.af.mil
-aupress.maxwell.af.mil
 www.osan.af.mil
 www.osi.af.mil
 www.pacaf.af.mil
@@ -71,6 +64,12 @@ www.yokota.af.mil
 ask.afpc.randolph.af.mil
 gum.afpc.randolph.af.mil
 afpoa.testmypers.af.mil
+afri.au.af.mil
+arpc.afrc.af.mil
+asbc.maxwell.af.mil
+aulibrary.au.af.mil
+aulibrary.maxwell.af.mil
+aupress.maxwell.af.mil
 boards.law.af.mil
 c21.au.af.mil
 c21.maxwell.af.mil
