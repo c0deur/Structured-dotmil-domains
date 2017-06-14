@@ -9,6 +9,15 @@ The domains with 403, 404, 401, 500 codes, TrustFailure or other SSL problems wa
 # Testing
 Some subdomains is not accessible on port 80, so `https://` prefix is required upon testing. Avoid the using of automated tools - DoD firewalls can block your IP address and even IP pool, and you will loose access to the some part of domains. If you still want to use it - make sure that you set the delay between requests (2-3 sec. minimum).
 
+# Methodology used for collecting
+1) Enumerating all possible subdomains through various tools (DNScan, SubBrute, Sublist3r, passive collection from search engines, etc)
+2) Merging them to one big list.
+3) Deleting duplicate records.
+4) Checking common ports (80, 443, 8000, 8080, 8888), generating new list of valid subdomains
+5) Committing to the repository.
+As you see, we still can miss some domains, which have some services running on non-standart ports. In the future, we will recheck the original lists again with Masscan tool, and update the lists.
+
+
 # Credits
 https://twitter.com/h1_sp1d3r
 
