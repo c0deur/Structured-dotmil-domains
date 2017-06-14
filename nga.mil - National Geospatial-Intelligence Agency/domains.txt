@@ -20,3 +20,4 @@ mars.nga.mil
 msi.nga.mil
 nga.mil
 origin-mow.gvs.nga.mil
+dev-depot.nga.mil
