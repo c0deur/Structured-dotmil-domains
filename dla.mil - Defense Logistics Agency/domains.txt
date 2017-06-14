@@ -27,13 +27,11 @@ www.transactionservices.dla.mil
 ldg.transactionservices.dla.mil
 doni.daps.dla.mil
 www.dlmso.dla.mil
-dispositionservices.dla.mil
-dla.mil
-doni.documentservices.dla.mil
-www2.dla.mil
 api.dacspr.documentservices.dla.mil
+doni.documentservices.dla.mil
 innovatej6.dla.mil
 mail.dla.mil
+www2.dla.mil
 amps.dla.mil
 apps.aviation.dla.mil
 pcf1.bsm.dla.mil
@@ -76,3 +74,5 @@ wsprod.transactionservices.dla.mil
 wsstage.transactionservices.dla.mil
 www2.transactionservices.dla.mil
 vapps.dla.mil
+dispositionservices.dla.mil
+dla.mil
