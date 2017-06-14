@@ -4,7 +4,7 @@ If you interested in contributing or research - make sure you read it.
 
 # Relevance
 All listed dotmil domains was alive at the moment of publication (bad records was filtered - domains with DNS errors, ConnectFailure, etc. - but sure, we could miss something). We will check and update the lists in the future.
-The domains with 403, 404, 401, 500 codes, TrustFailure or other SSL problems was listed too.
+The domains with 403, 404, 401, 500 codes, TrustFailure or other SSL problems was listed too. In general, this repository contains around 2000 valid domain records.
 
 # Testing
 Some subdomains is not accessible on port 80, so `https://` prefix is required upon testing. Also some domains requires `www.` prefix. Avoid the using of automated tools - DoD firewalls can block your IP address and even IP pool, and you will loose access to the some part of domains. If you still want to use it - make sure that you set the delay between requests (2-3 sec. minimum).
