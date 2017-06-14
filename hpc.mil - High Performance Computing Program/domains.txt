@@ -110,7 +110,6 @@ daacwww.navydsrc.hpc.mil
 portal.navydsrc.hpc.mil
 projects.navydsrc.hpc.mil
 ors.hpc.mil
-www.ors.hpc.mil
 apde.pica.hpc.mil
 picaade11nm0001.pica.hpc.mil
 projects.hpc.mil
