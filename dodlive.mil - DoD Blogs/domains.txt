@@ -73,7 +73,6 @@ dau.dodlive.mil
 ra.defense.dodlive.mil
 dsmc-tkp.dodlive.mil
 eucom.dodlive.mil
-older.sublist3r.versions.work.better.for.dodlive.mil
 greenfleet.dodlive.mil
 inss.dodlive.mil
 jmc.dodlive.mil
