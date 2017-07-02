@@ -23,4 +23,4 @@ https://twitter.com/h1_sp1d3r (Evgeniy Yakovchuk)
 
 https://twitter.com/_Psycho_Mantis (Alyssa Herrera) - this repository was previously based on the fork of the researcher's project - https://github.com/Alyssa-o-Herrera/Mil-Domains, but now contain much more records, and structurized for easier targeting and scope testing.
 
-#### Make The DoD Security Great Again!
+#### Make The DoD Security Great Again! 
