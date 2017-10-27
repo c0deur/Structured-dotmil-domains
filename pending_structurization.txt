@@ -34,7 +34,6 @@ dodiis.mil
 dodtap.mil
 dsca.mil
 dss.mil
-dtra.mil
 eb.mil
 elisa.dtsa.mil
 esgr.mil
